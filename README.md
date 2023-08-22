@@ -1,4 +1,4 @@
-# adaptto-live Server Load Test with Artillery
+# adaptTo() Live Server Load Test with Artillery
 
 https://www.artillery.io
 
