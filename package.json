@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "devDependencies": {
-    "artillery": "^2.0.0-33",
-    "artillery-engine-socketio-v3": "github:ptejada/artillery-engine-socketio-v3#master",
-    "uuid": "^9.0.0"
+    "artillery": "^2.0.0-37",
+    "artillery-engine-socketio-v3": "^1.2.0",
+    "uuid": "^9.0.1"
   }
 }
