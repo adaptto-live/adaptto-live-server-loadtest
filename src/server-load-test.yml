@@ -82,6 +82,11 @@ scenarios:
           match:
             args: true
       - think: 1
+      - emit: ["qaEntryLike", {id: "{{uuid}}"}]
+        acknowledge:
+          match:
+            args: true
+      - think: 1
       - function: generateUUID
       - emit: ["message", {id: "{{uuid}}", talkId: "{{currentTalkId}}", text: "{{message3}}"}]
         acknowledge:
