@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "devDependencies": {
-    "artillery": "^2.0.17",
+    "artillery": "^2.0.19",
     "artillery-engine-socketio-v3": "^1.2.0",
     "uuid": "^10.0.0"
   }
